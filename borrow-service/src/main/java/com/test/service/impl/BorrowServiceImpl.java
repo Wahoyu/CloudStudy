@@ -23,6 +23,8 @@ public class BorrowServiceImpl implements BorrowService{
 
     @Override
     public UserBorrowDetail getUserBorrowDetailByUid(int uid) {
+
+        //调用commons项目中的BorrowMapper文件中的getBorrowByUid方法
         List<Borrow> borrow = mapper.getBorrowsByUid(uid);
 
         //这里通过调用getForObject来请求其他服务，并将结果自动进行封装
