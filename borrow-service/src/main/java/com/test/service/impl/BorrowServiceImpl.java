@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import javax.annotation.Resource;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -71,4 +72,5 @@ public class BorrowServiceImpl implements BorrowService {
         //返回借阅信息
         return new UserBorrowDetail(user, bookList);
     }
+
 }
