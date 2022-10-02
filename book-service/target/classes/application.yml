@@ -6,7 +6,7 @@ spring:
       server:
         git:
           # 这里填写的是本地仓库地址，远程仓库直接填写远程仓库地址 http://git...
-          uri: file://E://JavaWorkspace//SpringCloudStudy//config-repo
+          uri: https://github.com/Wahoyu/CloudStudy/blob/8d1fb53c195571c1a07b0f92fdeb558d5e40c3a9/config--server/src/main/resources/config-repo/bookservice-dev.yml
           # 默认分支设定为你自己本地或是远程分支的名称
           default-label: master
   application:
