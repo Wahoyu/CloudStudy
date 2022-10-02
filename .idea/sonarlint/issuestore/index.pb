@@ -1,12 +1,8 @@
 
 j
 :eureka/src/main/java/com/test/EurekaServerApplication.java,c\c\cc8e9b5549a3bc7d8feddb0bde30e99bfedcd983
->
-eureka/pom.xml,3\0\30f428f04913bd558ce1a35dc4f7699762244c5b
 p
 @borrow-service/src/main/java/com/test/service/BorrowService.java,5\8\587d6bca32862766b15b9c80da0386aefd92ddd9
-D
-book-service/pom.xml,e\6\e644ef49641e7b9b6b80b6181b8f9b17771bda26
 h
 8book-service/src/main/java/com/test/BookApplication.java,a\f\af869e00ecff568a2b4cf70839e420db31a18c97
 l
@@ -23,3 +19,5 @@ r
 Buser-service/src/main/java/com/test/controller/UserController.java,5\a\5aa289296495989031a2cc7a084b904b8fd2748e
 _
 /commons/src/main/java/com/test/entity/User.java,b\4\b49c7866b61c2dfd4a69c21a2491d37fe342f287
+j
+:book-service/src/main/java/com/test/mapper/BookMapper.java,8\a\8a6b2a52d90d9ade195bce5eca72bbfd582a5615
