@@ -7,20 +7,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user-service" />
         <module name="book-service" />
-        <module name="hystrixdashboard" />
-        <module name="commons" />
         <module name="eureka" />
         <module name="borrow-service" />
+        <module name="user-service" />
+        <module name="hystrixdashboard" />
+        <module name="commons" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="book-service" target="8" />
       <module name="borrow-service" target="8" />
       <module name="commons" target="8" />
+      <module name="config-server" target="8" />
       <module name="dashboard" target="8" />
       <module name="eureka" target="8" />
+      <module name="eureka-server" target="8" />
+      <module name="gateway" target="8" />
+      <module name="gateway-server" target="8" />
+      <module name="hystrix-dashboard" target="8" />
       <module name="hystrixdashboard" target="8" />
       <module name="SpringCloudStudy" target="1.8" />
       <module name="user-service" target="8" />
@@ -32,8 +38,13 @@
       <module name="book-service" options="-parameters" />
       <module name="borrow-service" options="-parameters" />
       <module name="commons" options="-parameters" />
+      <module name="config-server" options="-parameters" />
       <module name="dashboard" options="-parameters" />
       <module name="eureka" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
       <module name="hystrixdashboard" options="-parameters" />
       <module name="untitled" options="-parameters" />
       <module name="user-service" options="-parameters" />

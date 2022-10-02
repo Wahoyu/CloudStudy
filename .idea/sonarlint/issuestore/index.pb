@@ -1,6 +1,4 @@
 
-j
-:eureka/src/main/java/com/test/EurekaServerApplication.java,c\c\cc8e9b5549a3bc7d8feddb0bde30e99bfedcd983
 p
 @borrow-service/src/main/java/com/test/service/BorrowService.java,5\8\587d6bca32862766b15b9c80da0386aefd92ddd9
 h
@@ -9,8 +7,6 @@ l
 <book-service/src/main/java/com/test/service/BookService.java,d\c\dc6f7020d170d9e82b4fd253d9b14ecb33dd806d
 u
 Ebook-service/src/main/java/com/test/service/impl/BookServiceImpl.java,d\b\db8848d86c9ec751cf0b6f6b4bb42270a75ba292
-r
-Bbook-service/src/main/java/com/test/controller/BookController.java,a\8\a83bfcdb064da8848bfaf12e931a8c9a9c9ba626
 g
 7commons/src/main/java/com/test/mapper/BorrowMapper.java,d\b\db47a5dfe00cc3541c8f99ce0dddcc96a46d23a5
 r
