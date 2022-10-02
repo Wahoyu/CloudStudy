@@ -41,8 +41,6 @@ E
 eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
 D
 user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
-D
-book-service/pom.xml,e\6\e644ef49641e7b9b6b80b6181b8f9b17771bda26
 F
 borrow-service/pom.xml,a\f\afe34522af212c85394afd5e6452452bd0787319
 I
@@ -57,5 +55,3 @@ r
 Bbook-service/src/main/java/com/test/controller/BookController.java,a\8\a83bfcdb064da8848bfaf12e931a8c9a9c9ba626
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-F
-config--server/pom.xml,b\5\b5ca7e03ab558836863550cd1d58ba6de42a430b
