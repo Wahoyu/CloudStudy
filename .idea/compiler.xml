@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="book-service" />
+        <module name="config--server" />
         <module name="eureka" />
         <module name="borrow-service" />
         <module name="user-service" />
@@ -20,6 +21,7 @@
       <module name="book-service" target="8" />
       <module name="borrow-service" target="8" />
       <module name="commons" target="8" />
+      <module name="config--server" target="8" />
       <module name="config-server" target="8" />
       <module name="dashboard" target="8" />
       <module name="eureka" target="8" />
@@ -38,6 +40,7 @@
       <module name="book-service" options="-parameters" />
       <module name="borrow-service" options="-parameters" />
       <module name="commons" options="-parameters" />
+      <module name="config--server" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="dashboard" options="-parameters" />
       <module name="eureka" options="-parameters" />
